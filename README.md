@@ -18,6 +18,6 @@ The convenience version has features to improve overworld traveling, that I firs
 - The Shaman's Rod also bestows Rain when equipped, instead of being a weapon. So that it's at least doing something as it takes up an inventory slot for the rest of the game.
 - You no longer have to worry about Psynergy items taking up your inventory as they can be sold and rebought as you please.
 
-# Classic version 
+# Classic version (WIP)
 Plays closer to the unmodded Golden Sun, with the most major difference between Jenna replaces Garet in the party.
 

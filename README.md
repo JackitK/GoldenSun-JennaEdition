@@ -1,5 +1,5 @@
 # Golden Sun: Jenna Edition
-Golden Sun 1 with Jenna inserted into Garret's place includes Jenna's stats, class and Psynergy from Lost Age. Comes in one of two versions. "Classic" and "Convenience". 
+Golden Sun 1 with Jenna inserted into Garret's place includes Jenna's stats, class and Psynergy from Lost Age. Also includes various quailty of life improvements for the game via the "Convenience Version"...
 
 # Convenience Verison
 The convenience version has features to improve overworld traveling, that I first implemented in Dawn of Djinn.  Including...

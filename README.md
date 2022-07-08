@@ -4,6 +4,8 @@ Golden Sun 1 with Jenna inserted into Garret's place includes Jenna's stats, cla
 ## Features Included In Both Verisons...
 - Jenna takes Garet's place in the game and vice versa.  
 - This means she will be in your party for the entire game, with her stats and abilities from Lost Age included.
+- To make up for the lack of Garet, Guard and Protect are now water Psynergy that Mia learns in her default class line.
+- Guard is learned at level 3, protect is learned at level 15, she needs to have at least 4 Mercury Djinn to have access to these.
 
 
 ## Extra Features in Modern Version

@@ -1,7 +1,7 @@
 # Golden Sun: Jenna Edition
 Golden Sun 1 with Jenna inserted into Garret's place includes Jenna's stats, class and Psynergy from Lost Age. Will (eventually) have two different patches, a "Modern" version and a "Classic" verison.
 
-##Features Included In Both Verisons...
+## Features Included In Both Verisons...
 - Jenna takes Garet's place in the game and vice versa.  
 - This means she will be in your party for the entire game, with her stats and abilities from Lost Age included.
 

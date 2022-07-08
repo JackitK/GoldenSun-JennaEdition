@@ -7,7 +7,7 @@ Golden Sun 1 with Jenna inserted into Garret's place includes Jenna's stats, cla
 
 
 ## Extra Features in Modern Version
-The convenience version has features to improve overworld traveling, that I first implemented in Dawn of Djinn.  Including...
+The Modern version has features to improve overworld traveling, and other quailty of life features that I first implemented in Dawn of Djinn.  Including...
 - Skipping the prolouge, as well as Flint's tutorial.
 - Being able to use Retreat as fast travel on the world map (as well as warping to the entrance of towns)
 - Avoid not only being available from the start, but it now behaves as a literal on/off toggle, rather than how it behaves in vanilla.

@@ -13,7 +13,7 @@ The Modern version has features to improve overworld traveling, and other quailt
 - Avoid not only being available from the start, but it now behaves as a literal on/off toggle, rather than how it behaves in vanilla.
 - Scared Feathers now takes on an effect similar to the Djinni Quartz (60% chance to revive ally to half health)
 - Quartz's abilty now acts as a 80 HP heal that is guartneed to revive if the ally is down.
-- The adept ring got a buff, now recovering 8 PP plus 7% of the taret's max PP.
+- The adept ring got a buff, now recovering 15 PP to the target
 - All Psynergy that is strictly utility costs 0 PP.
 - A fire Psynergy equilvant to Growth, "Sunshine", is available on Jenna, regardless of her class.
 - Ivan gains a new Psynergy, Gust, regardless of his class. It is an ulitiy exclusive Psynergy that functions like Whirlwind.

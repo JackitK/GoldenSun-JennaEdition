@@ -17,13 +17,13 @@ The Modern version has features to improve overworld traveling, and other quailt
 - All Psynergy that is strictly utility costs 0 PP.
 - A fire Psynergy equilvant to Growth, "Sunshine", is available on Jenna, regardless of her class.
 - Ivan gains a new Psynergy, Gust, regardless of his class. It is an ulitiy exclusive Psynergy that functions like Whirlwind.
-- Mia gains a new Psynergy, "Holy Ply". Outside of battle it lets you solve the puzzles of the Mercury Lighthouse. In battle, it heals PP to the user. Mia will have access to this Psynergy, regardless of class.
-- Ply from the orginal game is now refered to as "Healing Ply"
--Frost and Douse are battle exclusive Psynergy with "Chill" and "Rain" acting as their utility equivalent.
+- Mia gains a new Psynergy, "Holy Ply". Outside of battle it lets you solve the puzzles of the Mercury Lighthouse. In battle, it heals a small amount PP to an ally. Mia will have access to this Psynergy, regardless of class.
+- Ply from the orginal game is now refered to as "Healing Ply".
+- Frost and Douse are battle exclusive Psynergy with "Chill" and "Rain" acting as their utility equivalent.
 - Douse Drop and Frost Gem now bestow Rain and Chill respectully when equipped.
 - Chill and Rain also appear in more classes than Frost and Douse normally would
 - The Shaman's Rod also bestows Rain when equipped, instead of being a weapon. So that it's at least doing something as it takes up an inventory slot for the rest of the game.
-- You no longer have to worry about Psynergy items taking up your inventory as they can be sold and rebought as you please.
+- You no longer have to worry about Psynergy items taking up your inventory, as they can be sold and rebought as you please.
 - Djinn no longer can runaway from you in battle.
 
 ## Noticable Issues and Other Disclaimers...
